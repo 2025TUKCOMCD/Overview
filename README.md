@@ -7,7 +7,7 @@
     * Agile 개발방법론(Scrum Framework), Git, Github, Github Action, Docker
    
 ## 참여 학생 및 팀 구성
- * TripleK:  김진우(vocal4123), 김성렬(KimSeongRyeol),  김태경(taekyeng)
+ * TripleK:  김진우(vacal4123), 김성렬(KimSeongRyeol),  김태경(taekyeng)
  * npng: 김현수(kimhyeonsu-1024), 김도연(kdy17), 김민창(k-m-c-h)
  * Team Hijacking: 김현빈(Hyunbeen0903), 서하연 (srn13542), 연찬호(kecetchip), 김의연
  * IXFP: 박강서(qkrrkdtj), 석민정(minjaon), 조승연(moanuna)
