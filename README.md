@@ -4,7 +4,7 @@
   * 독창적인 아이디어 발굴 방법론 습득
   * 시스템 설계 방법론 습득
   * 현업 소프트웨어 개발 툴 습득
-    * Git, Github, Github Action, Docker
+    * Agile 개발방법론(Scrum Framework), Git, Github, Github Action, Docker
    
 ## 참여 학생 및 팀 구성
  * TripleK:  김진우(vocal4123), 김성렬(KimSeongRyeol),  김태경(taekyeng)
