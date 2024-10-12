@@ -10,7 +10,7 @@
  * TripleK:  김진우(vacal4123), 김성렬(KimSeongRyeol),  김태경(taekyeng), 박강서(qkrrkdtj)
  * npng: 김현수(kimhyeonsu-1024), 김도연(kdy17), 김민창(k-m-c-h)
  * Team Hijacking: 김현빈(Hyunbeen0903), 서하연 (srn13542), 연찬호(kecetchup), 김의연(노영주교수님, Ret751)
- * IXFP: 석민정(minjaon), 조승연(moanuna)
+ * .JZP: 석민정(minjaon), 조승연(moanuna), 최향도(chlgideh), 김윤승(FluffBeanTofu)
  * Half Fifty: 김민지(min-minnn), 유수현(6suhyeon), 임정윤(jzongyun), 문창현(정의훈교수님, changdoong)
  * Bucket: 양동균(ydg0724), 이예권(Baaunn), 김동일(kimdongiil),
      
